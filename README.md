@@ -12,6 +12,7 @@ I’m a full-stack developer passionate about desktop and mobile applications, m
 - **Writing:** Technical documentation, MLA formatting, peer-reviewed research synthesis
 
 ### 🛠️ Current Focus
+- I'm working on an extensive list of applications right now, 80+. 
 - Building a cross-platform WPF note-taking app using .NET
 - Finalizing college projects and engineering elegant UIs
 - Sharpening my understanding of cybersecurity and software architecture
