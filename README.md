@@ -1,4 +1,4 @@
-# Hey there, I'm Taylor  (@TheSixEyes)
+# Hey there, I'm Taylor (@TheSixEyes)
 
 > Developer. Creator. Cybersecurity enthusiast. UI perfectionist.
 
