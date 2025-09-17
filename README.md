@@ -21,8 +21,9 @@ I enjoy learning & tinkering using the most powerful languages.
 - Sharpening my understanding of cybersecurity and software architecture
 
 ### 🎮 After Hours
+- I develop in my off time, most of the time. Lol.
 - Running a Discord community for PC gaming & development
-- Gaming: League of Legends, Genshin Impact, OSRS
+- Gaming: League of Legends, Genshin Impact, OSRS, DayZ, RS6, Stardew Valley, CS2, Dwarf Fortress, & many more.
 - Building & optimizing strategy (in code *and* games)
 
 Let’s build something bold, responsive, and well-documented. 🚀
