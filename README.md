@@ -12,7 +12,7 @@ I enjoy learning & tinkering.
 - **Writing:** Technical documentation, MLA formatting, peer-reviewed research synthesis
 
 - I'm working on an extensive list of applications I market and sell on Gumroad.com
-- Building a cross-platform WPF note-taking app using .NET, something similar to Obsidian
+- Building a WPF note-taking app using .NET, something similar to Obsidian
 - Tauri cross-platform resume building & personal finance tracking applications with extensive features
 - Finalizing college projects and engineering elegant UIs
 - Sharpening my understanding of cybersecurity and software architecture
