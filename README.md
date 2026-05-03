@@ -9,8 +9,7 @@
 - Engineering elegant UIs
 - Sharpening and updating my understanding of cybersecurity and software architecture
 
-- **Languages & Frameworks:** C#(.NET/WPF), C+, Rust, Kotlin, PHP, React (JSX), SQL, GO, Python, HTML5 & CSS, TypeScript
-- **Platforms:** Windows 11, MacOS, Linux
+- **Languages & Frameworks:** TypeScript, JavaSript, Rust, C#(.NET/WPF), C+, Kotlin, PHP, React (JSX), SQL, GO, Python, HTML5 & CSS
 - **UI & Frontend:** Storybook, Bootstrap, WPF/XAML, CSS, Tauri, ASP.NET
 
 <!---
